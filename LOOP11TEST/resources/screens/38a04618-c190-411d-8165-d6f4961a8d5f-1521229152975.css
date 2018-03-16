@@ -1,0 +1,42 @@
+#s-38a04618-c190-411d-8165-d6f4961a8d5f > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-38a04618-c190-411d-8165-d6f4961a8d5f > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-38a04618-c190-411d-8165-d6f4961a8d5f #s-Image_1 {
+  position: absolute;
+  width: 1024px;
+  height: 1524px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-38a04618-c190-411d-8165-d6f4961a8d5f #s-Hotspot_1 {
+  position: absolute;
+  width: 276px;
+  height: 96px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-38a04618-c190-411d-8165-d6f4961a8d5f #s-Hotspot_2 {
+  position: absolute;
+  width: 232px;
+  height: 169px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-38a04618-c190-411d-8165-d6f4961a8d5f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

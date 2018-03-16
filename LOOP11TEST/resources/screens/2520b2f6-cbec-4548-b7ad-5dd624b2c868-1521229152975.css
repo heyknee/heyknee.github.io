@@ -1,0 +1,96 @@
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Image_1 {
+  position: absolute;
+  width: 1024px;
+  height: 2806px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_1 {
+  position: absolute;
+  width: 144px;
+  height: 39px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_2 {
+  position: absolute;
+  width: 291px;
+  height: 80px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_3 {
+  position: absolute;
+  width: 220px;
+  height: 68px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_4 {
+  position: absolute;
+  width: 149px;
+  height: 43px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_5 {
+  position: absolute;
+  width: 183px;
+  height: 47px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_6 {
+  position: absolute;
+  width: 138px;
+  height: 44px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_7 {
+  position: absolute;
+  width: 208px;
+  height: 47px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 #s-Hotspot_8 {
+  position: absolute;
+  width: 120px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-2520b2f6-cbec-4548-b7ad-5dd624b2c868 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
